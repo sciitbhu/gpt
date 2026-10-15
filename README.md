@@ -4,7 +4,7 @@ A from-scratch, local implementation of the OpenAI GPT-2 (124M) language model, 
 
 ## 👨‍💻 About the Author & The Journey
 
-Hi, I'm **Ritvik Suri**, currently studying at **IIT (BHU) Varanasi**. 
+Hi, I'm **Shrija Chirania**, currently studying at **IIT (BHU) Varanasi**. 
 
 This project represents the culmination of a long and rewarding learning journey. I've been following Andrej Karpathy's Youtube channel for quite some time. Instead of rushing to the final implementation, I intentionally took the long road: starting with the absolute basics, breaking down Transformer architectures, understanding self-attention mechanisms, and wrapping my head around the core math before finally building this full-scale implementation. 
 
